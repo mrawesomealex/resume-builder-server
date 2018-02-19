@@ -1,7 +1,7 @@
 # resume-builder-server
 server for https://github.com/mrawesomealex/resume-builder
 
-# Server Tecnologies
+# Server Technologies
 > Express.js
 
 > BodyParser
